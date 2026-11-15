@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794734746406,
+  "updatedAt": 1794734832040,
   "deletedIds": [],
   "licenses": [
     {
@@ -18,9 +18,72 @@
       "isMasterKey": false,
       "note": "사전 발급 라이센스",
       "createdAt": 1794734746406,
-      "updatedAt": 1794734746406,
-      "activatedAt": null
+      "activatedAt": null,
+      "updatedAt": 1794734746406
+    },
+    {
+      "id": "bd92efad5bff",
+      "key": "TC-YDQ2-8GSH-77ZY",
+      "role": "vip",
+      "durationDays": 0,
+      "isLifetime": true,
+      "expiresAt": null,
+      "status": "active",
+      "maxAccounts": 9999,
+      "maxInstances": 9999,
+      "boundUserId": "ceec0e47df6d",
+      "boundUsername": "sxlvlrt",
+      "boundHwid": "367BA4F2D11CFECA472EC17C",
+      "isMasterKey": false,
+      "note": "",
+      "createdAt": 1794732440532,
+      "activatedAt": 1794732454541
+    },
+    {
+      "id": "807277160a99",
+      "key": "TC-KZN3-2YRQ-8RPB",
+      "role": "admin",
+      "durationDays": 0,
+      "isLifetime": true,
+      "expiresAt": null,
+      "status": "active",
+      "maxAccounts": 9999,
+      "maxInstances": 9999,
+      "boundUserId": "0066369d3743",
+      "boundUsername": "User_8RPB",
+      "boundHwid": "367BA4F2D11CFECA472EC17C",
+      "isMasterKey": false,
+      "note": "",
+      "createdAt": 1794732607608,
+      "activatedAt": 1794732611229
     }
   ],
-  "users": []
+  "users": [
+    {
+      "id": "ceec0e47df6d",
+      "username": "sxlvlrt",
+      "displayName": "맛새우",
+      "passwordHash": "259965031713796dca98bde5:abffd8d5b2b792cf145f84a404b9c2a2e3873fcebc5408b7c54f67de0b6f70a4",
+      "role": "vip",
+      "licenseId": "bd92efad5bff",
+      "licenseKey": "TC-YDQ2-8GSH-77ZY",
+      "hwid": "367BA4F2D11CFECA472EC17C",
+      "suspended": false,
+      "createdAt": 1794732454541,
+      "lastLoginAt": 1794732454541
+    },
+    {
+      "id": "0066369d3743",
+      "username": "User_8RPB",
+      "displayName": "User_8RPB",
+      "passwordHash": "7fb94974aa13d4c1505768e9:0787b2b5c5e4f4cd1ae8db05c085cb18ed731cf87e2d893b129d7e323c4bcfeb",
+      "role": "admin",
+      "licenseId": "807277160a99",
+      "licenseKey": "TC-KZN3-2YRQ-8RPB",
+      "hwid": "367BA4F2D11CFECA472EC17C",
+      "suspended": false,
+      "createdAt": 1794732611229,
+      "lastLoginAt": 1794732611229
+    }
+  ]
 }
