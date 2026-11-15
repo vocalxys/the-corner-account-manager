@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794734850197,
+  "updatedAt": 1794734979288,
   "deletedIds": [],
   "licenses": [
     {
@@ -67,14 +67,14 @@
       "status": "active",
       "maxAccounts": 9999,
       "maxInstances": 9999,
-      "boundUserId": null,
-      "boundUsername": null,
-      "boundHwid": null,
+      "boundUserId": "f57282e3704e",
+      "boundUsername": "Blackeagle",
+      "boundHwid": "30C10CA602415DCBBEFB914E",
       "isMasterKey": false,
       "note": "",
       "createdAt": 1794734850194,
-      "updatedAt": 1794734850194,
-      "activatedAt": null
+      "updatedAt": 1794734979284,
+      "activatedAt": 1794734979284
     }
   ],
   "users": [
@@ -103,6 +103,21 @@
       "suspended": false,
       "createdAt": 1794732611229,
       "lastLoginAt": 1794732611229
+    },
+    {
+      "id": "f57282e3704e",
+      "username": "Blackeagle",
+      "displayName": "블랙이글",
+      "passwordHash": "888eb6f3e84464a290b80a20:c8aa58a39692b9c863c4125a1e4de5338f6050a2dda8e5950e9010ce7f921e8b",
+      "role": "admin",
+      "isMasterAdmin": false,
+      "licenseId": "1e27a728aeaf",
+      "licenseKey": "TC-WAAA-YFDL-XJS2",
+      "hwid": "30C10CA602415DCBBEFB914E",
+      "suspended": false,
+      "createdAt": 1794734979284,
+      "updatedAt": 1794734979284,
+      "lastLoginAt": 1794734979284
     }
   ]
 }
