@@ -1,0 +1,26 @@
+{
+  "updatedAt": 1794734746406,
+  "deletedIds": [],
+  "licenses": [
+    {
+      "id": "seed-tc-ejqf-mges-mzyu",
+      "key": "TC-EJQF-MGES-MZYU",
+      "role": "user",
+      "durationDays": 30,
+      "isLifetime": false,
+      "expiresAt": null,
+      "status": "active",
+      "maxAccounts": 9999,
+      "maxInstances": 9999,
+      "boundUserId": null,
+      "boundUsername": null,
+      "boundHwid": null,
+      "isMasterKey": false,
+      "note": "사전 발급 라이센스",
+      "createdAt": 1794734746406,
+      "updatedAt": 1794734746406,
+      "activatedAt": null
+    }
+  ],
+  "users": []
+}
