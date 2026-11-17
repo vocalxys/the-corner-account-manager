@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794882394912,
+  "updatedAt": 1794882427166,
   "deletedIds": [],
   "licenses": [
     {
@@ -105,14 +105,14 @@
       "status": "active",
       "maxAccounts": 9999,
       "maxInstances": 9999,
-      "boundUserId": null,
-      "boundUsername": null,
-      "boundHwid": null,
+      "boundUserId": "0f002eb68c50",
+      "boundUsername": "rickymax04",
+      "boundHwid": "FE1588FB8B8753C606125134",
       "isMasterKey": false,
       "note": "",
       "createdAt": 1794881983642,
-      "updatedAt": 1794881983642,
-      "activatedAt": null
+      "updatedAt": 1794882427164,
+      "activatedAt": 1794882427164
     }
   ],
   "users": [
@@ -156,6 +156,21 @@
       "createdAt": 1794734979284,
       "updatedAt": 1794734979284,
       "lastLoginAt": 1794734979284
+    },
+    {
+      "id": "0f002eb68c50",
+      "username": "rickymax04",
+      "displayName": "poyo",
+      "passwordHash": "c29615f7478c55359af7e02f:9967aba5b9a8eb8d7eb364a3714b3570ee43b19a5ca287609199e42e71c0aa79",
+      "role": "user",
+      "isMasterAdmin": false,
+      "licenseId": "86a9a61c327f",
+      "licenseKey": "TC-EAAA-8XBV-XZN8",
+      "hwid": "FE1588FB8B8753C606125134",
+      "suspended": false,
+      "createdAt": 1794882427164,
+      "updatedAt": 1794882427164,
+      "lastLoginAt": 1794882427164
     }
   ]
 }
