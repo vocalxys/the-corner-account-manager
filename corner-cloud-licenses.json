@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794914010687,
+  "updatedAt": 1794920124724,
   "deletedIds": [],
   "licenses": [
     {
@@ -131,6 +131,25 @@
       "note": "",
       "createdAt": 1794907845671,
       "updatedAt": 1794907845671,
+      "activatedAt": null
+    },
+    {
+      "id": "36fa9426cc06",
+      "key": "TC-EAAA-QKEF-WA33",
+      "role": "user",
+      "durationDays": 0,
+      "isLifetime": true,
+      "expiresAt": null,
+      "status": "active",
+      "maxAccounts": 9999,
+      "maxInstances": 9999,
+      "boundUserId": null,
+      "boundUsername": null,
+      "boundHwid": null,
+      "isMasterKey": false,
+      "note": "",
+      "createdAt": 1794920124710,
+      "updatedAt": 1794920124710,
       "activatedAt": null
     }
   ],
