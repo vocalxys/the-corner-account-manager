@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794901291288,
+  "updatedAt": 1794901924807,
   "deletedIds": [],
   "licenses": [
     {
@@ -86,14 +86,14 @@
       "status": "active",
       "maxAccounts": 9999,
       "maxInstances": 9999,
-      "boundUserId": null,
-      "boundUsername": null,
-      "boundHwid": null,
+      "boundUserId": "381724be5cd9",
+      "boundUsername": "wodud2035",
+      "boundHwid": "81EFA353C6D3D2485B1F2CD2",
       "isMasterKey": false,
       "note": "",
       "createdAt": 1794881391986,
-      "updatedAt": 1794881391986,
-      "activatedAt": null
+      "updatedAt": 1794901924804,
+      "activatedAt": 1794901924804
     },
     {
       "id": "86a9a61c327f",
@@ -171,6 +171,21 @@
       "createdAt": 1794882427164,
       "updatedAt": 1794882427164,
       "lastLoginAt": 1794882427164
+    },
+    {
+      "id": "381724be5cd9",
+      "username": "wodud2035",
+      "displayName": "Ilgwon",
+      "passwordHash": "61cba0a089fd5c5ffb50dfb1:354e38a1f82d98c67fd1ad52e35a56e885db200f248afba11a4aa623cc0cdebc",
+      "role": "user",
+      "isMasterAdmin": false,
+      "licenseId": "394cf4d2b0c1",
+      "licenseKey": "TC-EAAA-WQRK-XVDF",
+      "hwid": "81EFA353C6D3D2485B1F2CD2",
+      "suspended": false,
+      "createdAt": 1794901924804,
+      "updatedAt": 1794901924804,
+      "lastLoginAt": 1794901924804
     }
   ]
 }
