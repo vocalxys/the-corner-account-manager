@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795067816641,
+  "updatedAt": 1795087150990,
   "deletedIds": [],
   "licenses": [
     {
@@ -189,6 +189,25 @@
       "createdAt": 1794989800625,
       "updatedAt": 1794990008967,
       "activatedAt": 1794990008967
+    },
+    {
+      "id": "b08b59ac227d",
+      "key": "TC-EAAA-QTL5-BPFW",
+      "role": "user",
+      "durationDays": 0,
+      "isLifetime": true,
+      "expiresAt": null,
+      "status": "active",
+      "maxAccounts": 9999,
+      "maxInstances": 9999,
+      "boundUserId": null,
+      "boundUsername": null,
+      "boundHwid": null,
+      "isMasterKey": false,
+      "note": "",
+      "createdAt": 1795087150978,
+      "updatedAt": 1795087150978,
+      "activatedAt": null
     }
   ],
   "users": [
