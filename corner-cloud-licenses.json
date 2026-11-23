@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795426171105,
+  "updatedAt": 1795426434438,
   "deletedIds": [],
   "licenses": [
     {
@@ -219,14 +219,14 @@
       "status": "active",
       "maxAccounts": 9999,
       "maxInstances": 9999,
-      "boundUserId": null,
-      "boundUsername": null,
-      "boundHwid": null,
+      "boundUserId": "ebd9098ac580",
+      "boundUsername": "qwer0213",
+      "boundHwid": "A0632C17150DB451E901BA5A",
       "isMasterKey": false,
       "note": "",
       "createdAt": 1795426171092,
-      "updatedAt": 1795426171092,
-      "activatedAt": null
+      "updatedAt": 1795426434436,
+      "activatedAt": 1795426434436
     }
   ],
   "users": [
@@ -330,6 +330,21 @@
       "createdAt": 1795087577752,
       "updatedAt": 1795087577752,
       "lastLoginAt": 1795087577752
+    },
+    {
+      "id": "ebd9098ac580",
+      "username": "qwer0213",
+      "displayName": "파도",
+      "passwordHash": "f7d31978a4a5167dd0edc4f0:437fffee0631465ecf1bd77c29009f7d9baf2964c36f99cd7a72a8bbdcbffefd",
+      "role": "vip",
+      "isMasterAdmin": false,
+      "licenseId": "24d442268bc7",
+      "licenseKey": "TC-NAAA-J3NG-HAE9",
+      "hwid": "A0632C17150DB451E901BA5A",
+      "suspended": false,
+      "createdAt": 1795426434436,
+      "updatedAt": 1795426434436,
+      "lastLoginAt": 1795426434436
     }
   ]
 }
