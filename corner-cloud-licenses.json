@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795090613284,
+  "updatedAt": 1795426171105,
   "deletedIds": [],
   "licenses": [
     {
@@ -208,6 +208,25 @@
       "createdAt": 1795087150978,
       "updatedAt": 1795087577752,
       "activatedAt": 1795087577752
+    },
+    {
+      "id": "24d442268bc7",
+      "key": "TC-NAAA-J3NG-HAE9",
+      "role": "vip",
+      "durationDays": 0,
+      "isLifetime": true,
+      "expiresAt": null,
+      "status": "active",
+      "maxAccounts": 9999,
+      "maxInstances": 9999,
+      "boundUserId": null,
+      "boundUsername": null,
+      "boundHwid": null,
+      "isMasterKey": false,
+      "note": "",
+      "createdAt": 1795426171092,
+      "updatedAt": 1795426171092,
+      "activatedAt": null
     }
   ],
   "users": [
