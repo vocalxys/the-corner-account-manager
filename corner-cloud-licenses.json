@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795678188365,
+  "updatedAt": 1795678226968,
   "deletedIds": [],
   "licenses": [
     {
@@ -238,14 +238,14 @@
       "status": "active",
       "maxAccounts": 9999,
       "maxInstances": 9999,
-      "boundUserId": null,
-      "boundUsername": null,
-      "boundHwid": null,
+      "boundUserId": "7757789345a9",
+      "boundUsername": "kwhj0452",
+      "boundHwid": "22578CCA20371BE90386BBF8",
       "isMasterKey": false,
       "note": "",
       "createdAt": 1795677759363,
-      "updatedAt": 1795677759363,
-      "activatedAt": null
+      "updatedAt": 1795678226956,
+      "activatedAt": 1795678226956
     }
   ],
   "users": [
@@ -364,6 +364,21 @@
       "createdAt": 1795426434436,
       "updatedAt": 1795426434436,
       "lastLoginAt": 1795426434436
+    },
+    {
+      "id": "7757789345a9",
+      "username": "kwhj0452",
+      "displayName": "하리",
+      "passwordHash": "7b0272f93a2aee2dd8f6ed67:ed4dca0ab5fe5357268daebb0cddda2c2fc3c5e8f5886a21a569937744d630c9",
+      "role": "user",
+      "isMasterAdmin": false,
+      "licenseId": "f8521715e12d",
+      "licenseKey": "TC-EAAA-N28M-97P7",
+      "hwid": "22578CCA20371BE90386BBF8",
+      "suspended": false,
+      "createdAt": 1795678226956,
+      "updatedAt": 1795678226956,
+      "lastLoginAt": 1795678226956
     }
   ]
 }
